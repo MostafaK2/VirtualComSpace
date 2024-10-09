@@ -1,10 +1,10 @@
-# WEB103 Project 3 - *Name of App Here*
+# WEB103 Project 3 - VirtualComSpace
 
-Submitted by: **Your name here**
+Submitted by: Mostafa Kamal
 
-About this web app: **App description here**
+About this web app: Webapp with locations
 
-Time spent: **X** hours
+Time spent: 3 hours
 
 ## Required Features
 
