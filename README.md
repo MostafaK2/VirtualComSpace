@@ -13,7 +13,7 @@ The following **required** functionality is completed:
 <!-- Make sure to check off completed functionality below -->
 
 - [ ] **The web app uses React to display data from the API**
-- [ ] **The web app is connected to a PostgreSQL database, with an appropriately structured Events table**
+- [X] **The web app is connected to a PostgreSQL database, with an appropriately structured Events table**
   - [ ] **NOTE: Your GIF or a screenshot added to this README must include a view of your Railway database that shows the contents of the table used by your app**
 - [ ] **The web app displays the title of the app**
 - [ ] **A visual interface allows the user to select a Location they would like to view**
